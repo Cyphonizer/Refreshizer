@@ -16,7 +16,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://theappraisallane.lightning.force.com/lightning/r/Dashboard/*"
+        "https://theappraisallane.lightning.force.com/lightning/r/Dashboard/01Z0e000000UKEJEA4/view"
       ],
       "js": [
         "src/inject/inject.js"
